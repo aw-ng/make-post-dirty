@@ -1,5 +1,5 @@
 {
-  "name": "badasswp/make-post-dirty",
+  "name": "aw-ng/make-post-dirty",
   "description": "A useful tool for populating the block editor title and content.",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
